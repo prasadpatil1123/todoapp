@@ -1,0 +1,28 @@
+/* ItemList.css */
+.list-group-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 8px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  .completed-item {
+    background-color: #d4edda;
+  }
+  
+  .btn {
+    margin-right: 5px;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: auto;
+  }
+  
+  .mt-5 {
+    margin-top: 20px;
+  }
+  
